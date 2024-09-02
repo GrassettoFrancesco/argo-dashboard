@@ -8,7 +8,7 @@ const Options = () => (
 		<div className="mt-6 lg:text-left">
 			<span className="text-base">
 				<span className={bold.className}>Nota</span>: Questo sito è stato creato
-				da studenti per gli studenti, con lo scopo di facilitare l&apos;accesso
+				da TechCesco per gli studenti, con lo scopo di facilitare l&apos;accesso
 				ai dati essenziali del registro in modo veloce su tutti i dispositivi.
 				<br />
 				Non siamo affiliati in alcun modo ad{" "}
@@ -22,7 +22,7 @@ const Options = () => (
 				Se, invece, avete trovato un bug nel nostro sito o avete semplicemente
 				una fantastica idea in mente, potete segnalarcelo nella nostra{" "}
 				<a
-					href="https://github.com/DTrombett/argo-dashboard"
+					href="https://github.com/GrassettoFrancesco/edutrack"
 					target="_blank"
 					className="link"
 				>
@@ -49,7 +49,7 @@ const Options = () => (
 				<div className="flex flex-col lg:flex-row items-center justify-center pt-2 lg:pt-4">
 					<div className="flex-1 pb-4 lg:pb-0 lg:pr-4">
 						Effettua il log out rimuovendo il profilo dal dispositivo. Nota che
-						il profilo non verrà scollegato da altri dispositivi o da altri
+				                il profilo non verrà scollegato da altri dispositivi o da altri
 						browser e app sullo stesso dispositivo.
 					</div>
 					<LogOutButton />
