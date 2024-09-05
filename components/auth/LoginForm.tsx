@@ -36,7 +36,7 @@ const LoginForm = () => {
 				}}
 			>
 				<span className="my-4 text-xl font-light">
-					Effettua il login con Argo!
+					Effettua il login su EduFusion <br>con le tue credenziali di Argo!</br>
 				</span>
 				<input
 					className="input"
